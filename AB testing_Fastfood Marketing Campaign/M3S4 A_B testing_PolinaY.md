@@ -56,19 +56,22 @@ The low p-value indicates that we would be very unlikely to get such a differenc
 
 The difference between campaigns 1 and 2 is statistically significant. Campaign 1 performs better than campaign 2 with a difference of means of 43 thousand dollars. In other words, over the period of the test, campaign 1 generated an estimated 43 thousand dollars more than campaign 2\.
 
-![][image1]
+![image](https://github.com/user-attachments/assets/4cc42bd5-541e-4c99-b472-aeac24b2e232)
+
 
 ## **Campaigns 2 vs 3**
 
 The difference between campaigns 2 and 3 is not statistically significant. Given the alpha level I set before this analysis, the p-value of 0.0136 is too high. To establish statistical significance, the test should be run for longer or in more locations.
 
-![][image2]
+![image](https://github.com/user-attachments/assets/9d0f900d-d186-426e-ae54-c45048db3ccc)
+
 
 ## **Campaigns 1 vs 3**
 
 Likewise, the difference between campaigns 1 and 3 is not statistically significant.
 
-![][image3]
+![image](https://github.com/user-attachments/assets/57ff0525-ce7a-4e59-98ec-6adda070c53d)
+
 
 # **Decision & recommendations**
 
